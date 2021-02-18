@@ -1,0 +1,16 @@
+{
+    "users": [
+        {"id": "23", "companyId": "1", "firstname": "theo", "age": 21},
+        {"id": "200", "companyId": "2", "firstname": "steven", "age": 28},
+        {"id": "13", "companyId": "3", "firstname": "dika", "age": 18},
+        {"id": "10", "companyId": "2", "firstname": "dan", "age": 24},
+        {"id": "1", "companyId": "3", "firstname": "dika", "age": 38},
+        {"id": "12", "companyId": "1", "firstname": "dan", "age": 29}
+    ],
+    "companies": [
+        {"id": "1", "name": "Google", "description": "Search"},
+        {"id": "2", "name": "Microsoft", "description": "Software"},
+        {"id": "3", "name": "Facebook", "description": "Social"},
+        {"id": "4", "name": "Linux", "description": "Operating System"}
+    ]
+}
